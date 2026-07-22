@@ -10,6 +10,9 @@
 
 ```python3 main.py```
 
+## 获取cookies Get cookies.txt LOCALLY
+
+https://chromewebstore.google.com/detail/cclelndahbckbenkjhflpdbgdldlbecc
 
 ## 各种前置需求和推荐搭配的工具们
 
